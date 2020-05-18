@@ -1,0 +1,1 @@
+SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'MjgwMjkx'

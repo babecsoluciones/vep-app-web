@@ -1,0 +1,315 @@
+SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'fer.figueroa@fussionmd.com' AND tPasswordAcceso = 'RmVybkBuZG8yMDIw'
+
+//--/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'fer.figueroa@fussionmd.com' AND tPasswordAcceso = 'RmVybkBuZG8yMDIw'
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'fer.figueroa@fussionmd.com' AND tPasswordAcceso = 'RmVybkBuZG8yMDIw'
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'fer.figueroa@fussionmd.com' AND tPasswordAcceso = 'RmVybkBuZG8yMDIw'
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'osiris.rocha@fussionmd.com' AND tPasswordAcceso = 'T3NpcmlzQDIwMjA='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'Victor.serrato@fussionmd.com' AND tPasswordAcceso = 'VmljdG9yQDIwMjA='
+
+//--/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'victor.serrato@fussionmd.com' AND tPasswordAcceso = 'VmljdG9yQDIwMjA='
+
+//--/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'Victor.serrato@fussionmd.com' AND tPasswordAcceso = 'dmljdG9yQDIwMjA='
+
+//--/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'victor.serrato@fussionmd.com' AND tPasswordAcceso = 'VmljdG9yQDIwMjA='
+
+//--/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'victor.serrato@fussionmd.com' AND tPasswordAcceso = 'VkljdG9yQDIwMjA='
+
+//--/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'victor.serrato@fussionmd.com' AND tPasswordAcceso = 'VmljdG9yQDIwMjA='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'osiris.rocha@fussionmd.com' AND tPasswordAcceso = 'T3NpcmlzQDIwMjA='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'fer.figueroa@fussionmd.com' AND tPasswordAcceso = 'RmVybkBuZG8yMDIw'
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'osiris.rocha@fussionmd.com' AND tPasswordAcceso = 'b3NpcmlzQDIwMjA='
+
+//--/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'osiris.rocha@fussionmd.com' AND tPasswordAcceso = 'b3NpcmlzQDIwMjA='
+
+//--/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'osiris.rocha@fussionmd.com' AND tPasswordAcceso = 'T3NpcmlzQDIwMjA='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'osiris.rocha@fussionmd.com' AND tPasswordAcceso = 'T3NpcmlzQDIwMjA='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'osiris.rocha@fussionmd.com' AND tPasswordAcceso = 'T3NpcmlzQDIwMjA='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'fer.figueroa@fussionmd.com' AND tPasswordAcceso = 'RmVybkBuZG8yMDIw'
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'osiris.rocha@fussionmd.com' AND tPasswordAcceso = 'T3NpcmlzQDIwMjA='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'osiris.rocha@fussionmd.com' AND tPasswordAcceso = 'T3NpcmlzQDIwMjA='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'gil.delvillar@fussionmd.com' AND tPasswordAcceso = 'R2lsZGVsdmlsbEByMjAxOQ=='
+
+//--/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = '' AND tPasswordAcceso = ''
+
+//--/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'gil.delvillar@fussionmd.com' AND tPasswordAcceso = 'R2lsZGVsdmlsbEByMjAxOQ=='
+
+//--/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = '' AND tPasswordAcceso = ''
+
+//--/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'gil.delvillarm@hotmail.com' AND tPasswordAcceso = 'Z2R2bWJzcA=='
+
+//--/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'gil.delvillar@fussionmd.com' AND tPasswordAcceso = 'R2lsZGVsdmlsbEByMjAxOQ=='
+
+//--/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'victor.serrato@fussionmd.com' AND tPasswordAcceso = 'Vmljb3JAMjAyMA=='
+
+//--/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'victor.serrato@fussionmd.com' AND tPasswordAcceso = 'VmljdG9yQDIwMjA='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = '' AND tPasswordAcceso = ''
+
+//--/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'victor.serrato@fussionmd.com' AND tPasswordAcceso = 'VmljdG9yQDIwMjA='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'osiris.rocha@fussionmd.com' AND tPasswordAcceso = 'T3NpcmlzQDIwMjA='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'gil.delvillar@fussionmd.com' AND tPasswordAcceso = 'R2lsZGVsdmlsbEByMjAyMA=='
+
+//--/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = '' AND tPasswordAcceso = ''
+
+//--/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'gil.delvillar@fussionmd.com' AND tPasswordAcceso = 'R2lsYmVydG9AMjAyMA=='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'marcrissoriano@gmail.com' AND tPasswordAcceso = 'bWFyY3Jpc3M='
+
+//--/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'gil.delvillar@fussionmd.com' AND tPasswordAcceso = 'R2lsYmVydG9AMjAyMA=='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'negritamogu@gmail.com' AND tPasswordAcceso = 'UGF1aGVyIA=='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'victor.serrato@fussionmd.com' AND tPasswordAcceso = 'VmljdG9yQDIwMjA='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'negritamogu@gmail.com' AND tPasswordAcceso = 'UGF1aGVyIA=='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'osiris.rocha@fussionmd.com' AND tPasswordAcceso = 'T3NpcmlzQDIwMjA='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'negritamogu@gmail.com' AND tPasswordAcceso = 'UGF1aGVyIA=='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = '' AND tPasswordAcceso = ''
+
+//--/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'gil.delvillar@fussionmd.com' AND tPasswordAcceso = 'R2lsYmVydG9AMjAyMA=='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'negritamogu@gmail.com' AND tPasswordAcceso = 'UGF1aGVyIA=='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'negritamogu@gmail.com' AND tPasswordAcceso = 'UGF1aGVyIA=='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'ernestosalas9@gmail.com' AND tPasswordAcceso = 'RXJuc2Fs'
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'osiris.rocha@fussionmd.com' AND tPasswordAcceso = 'T3Npcmlkc0AyMDIw'
+
+//--/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'gil.delvillar@fussionmd.com' AND tPasswordAcceso = 'R2lsYmVydG9AMjAyMA=='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'osiris.rocha@fussionmd.com' AND tPasswordAcceso = 'T3NpcmlzQDIwMjA='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'gil.delvillar@fussionmd.com' AND tPasswordAcceso = 'R2lsYmVydG9AMjAyMA=='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'gil.delvillar@fussionmd.com' AND tPasswordAcceso = 'R2lsYmVydG9AMjAyMA=='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'osiris.rocha@fussionmd.com' AND tPasswordAcceso = 'T3NpcmlzQDIwMjA='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'ernestosalas9@gmail.com' AND tPasswordAcceso = 'RXJuc2Fs'
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'osiris.rocha@fussionmd.com' AND tPasswordAcceso = 'T3NpcmlzQDIwMjA='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'ernestosalas9@gmail.com' AND tPasswordAcceso = 'RXJuc2Fs'
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'ernestosalas9@gmail.com' AND tPasswordAcceso = 'RXJuc2Fs'
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'ernestosalas9@gmail.com' AND tPasswordAcceso = 'RXJuc2Fs'
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'ernestosalas9@gmail.com' AND tPasswordAcceso = 'RXJuc2Fs'
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'ernestosalas9@gmail.com' AND tPasswordAcceso = 'RXJuc2Fs'
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'gil.delvillar@fussionmd.com' AND tPasswordAcceso = 'R2lsYmVydG9AMjAyMA=='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'ernestosalas9@gmail.com' AND tPasswordAcceso = 'RXJuc2Fs'
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'lauraolija@gmail.com' AND tPasswordAcceso = 'ZGlhbmFqYTE5OTU='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'sandypp30@hotmail.com' AND tPasswordAcceso = 'c2FuZHJhMzA='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'ernestosalas9@gmail.com' AND tPasswordAcceso = 'RXJuc2Fs'
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'osiris.rocha@fussionmd.com' AND tPasswordAcceso = 'T3NpcmlzQDIwMjA='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'osiris.rocha@fussionmd.com' AND tPasswordAcceso = 'T3NpcmlzQDIwMjA='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'ernestosalas9@gmail.com' AND tPasswordAcceso = 'RXJuc2Fs'
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'ernestosalas9@gmail.com' AND tPasswordAcceso = 'RXJuc2Fs'
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'gil.delvillar@fussionmd.com' AND tPasswordAcceso = 'R2lsYmVydG9AMjAyMA=='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'ernestosalas9@gmail.com' AND tPasswordAcceso = 'RXJuc2Fs'
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'gil.delvillar@fussionmd.com' AND tPasswordAcceso = 'R2lsYmVydG9AMjAyMA=='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'gil.delvillar@fussionmd.com' AND tPasswordAcceso = 'R2lsYmVydG9AMjAyMA=='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'osiris.rocha@fussionmd.com' AND tPasswordAcceso = 'T3NpcmlzQDIwMjA='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'ernestosalas9@gmail.com' AND tPasswordAcceso = 'RXJuc2Fs'
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'ernestosalas9@gmail.com' AND tPasswordAcceso = 'RXJuc2Fs'
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'babec.soluciones@gmail.com' AND tPasswordAcceso = 'QmFzQDI4OTE='
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'sandragarcia@gmil.com' AND tPasswordAcceso = 'bWluaW1hdXNl'
+
+//--/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'SandraSophia269@gmail' AND tPasswordAcceso = 'bWluaWVtYXVzZSA='
+
+//--/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'SandraSophia269@gmail' AND tPasswordAcceso = 'bWluaWVtYXVzZQ=='
+
+//--/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'SandraSophia269@gmail' AND tPasswordAcceso = 'bWluaWVtYXVzZQ=='
+
+//--/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'SandraSophia269@gmail' AND tPasswordAcceso = 'bWluaWVtYXVz'
+
+//--/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'SandraSophia269@gmail' AND tPasswordAcceso = 'bWkgaWVtYXVzZQ=='
+
+//--/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'SandraSophia269@gmail' AND tPasswordAcceso = 'bWluaWVtYXVzZSA='
+
+//--/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'Sandrasophia269@gmail' AND tPasswordAcceso = 'bWluaWVtYXVzZQ=='
+
+//--/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'sandrasophia269@gmail.com' AND tPasswordAcceso = 'bWluaWVtYXVzZQ=='
+
+//--/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'sandrasophia269@gmail.com' AND tPasswordAcceso = 'bWluaW1hdXNl'
+
+//--/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'sandrasophia269@gmail.com' AND tPasswordAcceso = 'bWlubmllbWF1c2U='
+
+//--/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'sandrasophia269@gmail.com' AND tPasswordAcceso = 'bWluaWVtYXVz'
+
+//--/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'sandrasophia269@gmail.com' AND tPasswordAcceso = 'bWluaWVtYXVzZQ=='
+
+//--/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'sandrasophia269@gmail.com' AND tPasswordAcceso = 'bWluaWVtYXVzZQ=='
+
+//--/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'SandraSophia269@gmail' AND tPasswordAcceso = 'bWluaWVtYXVzZTA1'
+
+//--/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'SandraSophia269@gmail' AND tPasswordAcceso = 'bWluaWVtYXVzZTA1'
+
+//--/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'sandrasophia269@gmail.com' AND tPasswordAcceso = 'bWluaWVtYXVzZTA1'
+
+//--/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'SandraSophia269@gmail.com' AND tPasswordAcceso = 'bWluaWVtYXVzZTA1'
+
+//--/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'SandraSophia269@gmail.com' AND tPasswordAcceso = 'TWluaWVtYXVzZTA1'
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'SandraSophia269@gmail.com' AND tPasswordAcceso = 'TWluaWVtYXVzZTA1'
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'betigom10@gmail.com' AND tPasswordAcceso = 'QmVhZ29k'
+
+//--/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'betygom10@gmail.com' AND tPasswordAcceso = 'QmVhZ29k'
+
+das/sis-dash-con/consultar-sistema-dashboard/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'SandraSophia269@gmail.com' AND tPasswordAcceso = 'bWluaWVtYXVzZTA1'
+
+//--/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'SandraSophia269@gmail.com' AND tPasswordAcceso = 'bWluaWVtYXVzZTA1'
+
+//--/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'SandraSophia269@gmail.com' AND tPasswordAcceso = 'bWluaWVtYWlzZTA1'
+
+//--/SELECT * FROM SisUsuarios WHERE eCodEstatus=3 AND tCorreo = 'SandraSophia269@gmail.com' AND tPasswordAcceso = 'bWluaWVtYXVzZTA1'
+
+//--/
